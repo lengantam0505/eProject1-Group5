@@ -20,7 +20,7 @@ eProject documentation at : https://github.com/lengantam0505/eProject1-Group5/tr
 
 ============================
 
-eProject published at : 
+eProject published at : https://lengantam0505.github.io/eProject1-Group5/
 
 ============================
 

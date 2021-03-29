@@ -20,11 +20,11 @@ eProject documentation at : https://github.com/lengantam0505/eProject1-Group5/tr
 
 ============================
 
-eProject published at : https://lengantam0505.github.io/eProject1-Group5/
+eProject published at :     https://lengantam0505.github.io/eProject1-Group5/
 
 ============================
 
-eProject video published at : https://www.youtube.com/watch?v=DmyyazTGfVQ
+eProject video published at : https://www.youtube.com/watch?v=cXg_VVm3t0w
 
 ============================
 

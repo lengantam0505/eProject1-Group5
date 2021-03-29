@@ -16,7 +16,7 @@ Group members Name Student ID
                     Phạm Duy Nhân              Student1275242 
 ============================
 
-eProject documentation at : 
+eProject documentation at : https://github.com/lengantam0505/eProject1-Group5/tree/main/Review
 
 ============================
 
